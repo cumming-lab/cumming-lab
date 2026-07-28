@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Jack 👋
 
-<!--
-**cumming-lab/cumming-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently studying Information Technology at MyComputerCareer with a focus on IT Support. I'm building my skills in networking, Windows administration, Linux, Active Directory, and troubleshooting.
 
-Here are some ideas to get you started:
+## What I'm Learning
+- Windows 10 & Windows Server
+- Active Directory
+- Networking (TCP/IP, DNS, DHCP)
+- Linux
+- Hardware Troubleshooting
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Goals
+- Earn industry certifications
+- Build hands-on IT projects
+- Grow my troubleshooting skills
+- Start my career in IT support
+
+## Projects
+I'll be adding labs, scripts, and projects here as I complete them.
+
+## Contact
+Feel free to connect with me here on GitHub.
